@@ -98,7 +98,9 @@ Easily plug into real-world applications 🏢📎
 
 ## 🎥 Project Demo
 
-[![Watch Demo](video-thumbnail.png)]([https://github.com/kumawatmanish05/Customer-Churn-Prediction/blob/main/Dataset/ANNChurn.mp4])
+## 🎥 Project Demo
+▶️ [Click here to watch the demo]((https://github.com/kumawatmanish05/Customer-Churn-Prediction/blob/main/Dataset/ANNChurn.mp4))
+
 
 --- 
 
